@@ -1,0 +1,19 @@
+#eslogan-div{
+ 
+    align-items: center;
+    display: flex;
+position: relative;
+width: 100%;
+justify-content: space-around;
+height: 100%;
+  
+}
+#eslogan-div img{
+  
+    width: 400px;
+height: 450px;
+}
+#eslogan-div p{
+    color: black;
+    font-size: 3rem;
+}
